@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b7f9dd9d-9fde-4b96-9670-5b9511be3cc8" name="Default Changelist" comment="" />
+    <list default="true" id="b7f9dd9d-9fde-4b96-9670-5b9511be3cc8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/publications.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/publications.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,7 +50,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603456378081</updated>
       <workItem from="1603456379136" duration="20069000" />
-      <workItem from="1603560912804" duration="1502000" />
+      <workItem from="1603560912804" duration="1954000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1603561817200</created>
@@ -75,10 +78,10 @@
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
     <state x="499" y="132" width="912" height="905" key="CommitChangelistDialog2/0.0.1920.1200/1920.0.1200.1920@0.0.1920.1200" timestamp="1603561817071" />
-    <state width="498" height="446" key="SwitcherDM" timestamp="1603561369459">
+    <state width="498" height="446" key="SwitcherDM" timestamp="1603562718557">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state width="498" height="446" key="SwitcherDM/0.0.1920.1200/1920.0.1200.1920@0.0.1920.1200" timestamp="1603561369459" />
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1200/1920.0.1200.1920@0.0.1920.1200" timestamp="1603562718557" />
     <state x="555" y="317" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1603561821474">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
