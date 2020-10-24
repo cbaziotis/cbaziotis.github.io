@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b7f9dd9d-9fde-4b96-9670-5b9511be3cc8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jHM5ITpi9C9CfnFu1unN8x5JxL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/img" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/img" />
+      <recent name="$PROJECT_DIR$/assets/pdf" />
+      <recent name="$PROJECT_DIR$/_pages" />
+      <recent name="$PROJECT_DIR$/_includes" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7f9dd9d-9fde-4b96-9670-5b9511be3cc8" name="Default Changelist" comment="" />
+      <created>1603456378081</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603456378081</updated>
+      <workItem from="1603456379136" duration="20069000" />
+      <workItem from="1603560912804" duration="1502000" />
+    </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1603561817200</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603561817200</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="693" y="330" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603561156201">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="693" y="330" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1200/1920.0.1200.1920@0.0.1920.1200" timestamp="1603561156201" />
+    <state x="499" y="132" width="912" height="905" key="CommitChangelistDialog2" timestamp="1603561817071">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="499" y="132" width="912" height="905" key="CommitChangelistDialog2/0.0.1920.1200/1920.0.1200.1920@0.0.1920.1200" timestamp="1603561817071" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1603561369459">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1200/1920.0.1200.1920@0.0.1920.1200" timestamp="1603561369459" />
+    <state x="555" y="317" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1603561821474">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="555" y="317" width="800" height="535" key="Vcs.Push.Dialog.v2/0.0.1920.1200/1920.0.1200.1920@0.0.1920.1200" timestamp="1603561821474" />
+    <state x="171" y="191" width="969" height="782" key="find.popup" timestamp="1603543474604">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="171" y="191" width="969" height="782" key="find.popup/0.0.1920.1200/1920.0.1200.1920@0.0.1920.1200" timestamp="1603543474604" />
+  </component>
+</project>
