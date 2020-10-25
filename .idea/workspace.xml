@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7f9dd9d-9fde-4b96-9670-5b9511be3cc8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/img/RPS_ee.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/publications.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/publications.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_bibliography/papers.bib" beforeDir="false" afterPath="$PROJECT_DIR$/_bibliography/papers.bib" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +15,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1jHM5ITpi9C9CfnFu1unN8x5JxL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -50,7 +52,8 @@
       <option name="presentableId" value="Default" />
       <updated>1603456378081</updated>
       <workItem from="1603456379136" duration="20069000" />
-      <workItem from="1603560912804" duration="1954000" />
+      <workItem from="1603560912804" duration="2539000" />
+      <workItem from="1603618605653" duration="723000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1603561817200</created>
@@ -59,7 +62,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603561817200</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="initial commit">
+      <created>1603562980960</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603562980960</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -74,21 +84,21 @@
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
     <state x="693" y="330" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1200/1920.0.1200.1920@0.0.1920.1200" timestamp="1603561156201" />
-    <state x="499" y="132" width="912" height="905" key="CommitChangelistDialog2" timestamp="1603561817071">
+    <state x="499" y="132" width="912" height="905" key="CommitChangelistDialog2" timestamp="1603562980903">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state x="499" y="132" width="912" height="905" key="CommitChangelistDialog2/0.0.1920.1200/1920.0.1200.1920@0.0.1920.1200" timestamp="1603561817071" />
+    <state x="499" y="132" width="912" height="905" key="CommitChangelistDialog2/0.0.1920.1200/1920.0.1200.1920@0.0.1920.1200" timestamp="1603562980903" />
     <state width="498" height="446" key="SwitcherDM" timestamp="1603562718557">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1920.1200/1920.0.1200.1920@0.0.1920.1200" timestamp="1603562718557" />
-    <state x="555" y="317" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1603561821474">
+    <state x="555" y="317" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1603562982160">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state x="555" y="317" width="800" height="535" key="Vcs.Push.Dialog.v2/0.0.1920.1200/1920.0.1200.1920@0.0.1920.1200" timestamp="1603561821474" />
-    <state x="171" y="191" width="969" height="782" key="find.popup" timestamp="1603543474604">
+    <state x="555" y="317" width="800" height="535" key="Vcs.Push.Dialog.v2/0.0.1920.1200/1920.0.1200.1920@0.0.1920.1200" timestamp="1603562982160" />
+    <state x="171" y="191" width="969" height="782" key="find.popup" timestamp="1603563366315">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state x="171" y="191" width="969" height="782" key="find.popup/0.0.1920.1200/1920.0.1200.1920@0.0.1920.1200" timestamp="1603543474604" />
+    <state x="171" y="191" width="969" height="782" key="find.popup/0.0.1920.1200/1920.0.1200.1920@0.0.1920.1200" timestamp="1603563366315" />
   </component>
 </project>
