@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7f9dd9d-9fde-4b96-9670-5b9511be3cc8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/pdf/Slides_EMNLP2020_LM_prior_for_nmt.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +22,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/pdf" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -35,8 +36,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/assets/img" />
       <recent name="$PROJECT_DIR$/assets/pdf" />
+      <recent name="$PROJECT_DIR$/assets/img" />
       <recent name="$PROJECT_DIR$/_pages" />
       <recent name="$PROJECT_DIR$/_includes" />
     </key>
@@ -54,6 +55,8 @@
       <workItem from="1603618605653" duration="1592000" />
       <workItem from="1603743530464" duration="2981000" />
       <workItem from="1603819083484" duration="750000" />
+      <workItem from="1604077093506" duration="661000" />
+      <workItem from="1605645773839" duration="1140000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1603561817200</created>
@@ -90,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603819109475</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="about">
+      <created>1604077259730</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1604077259730</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,21 +130,21 @@
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
     <state x="693" y="330" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1200/1920.0.1200.1920@0.0.1920.1200" timestamp="1603561156201" />
-    <state x="499" y="132" width="1333" height="905" key="CommitChangelistDialog2" timestamp="1603819109335">
+    <state x="190" y="132" width="1642" height="905" key="CommitChangelistDialog2" timestamp="1604077259564">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state x="499" y="132" width="1333" height="905" key="CommitChangelistDialog2/0.0.1920.1200/1920.0.1200.1920@0.0.1920.1200" timestamp="1603819109335" />
-    <state width="498" height="446" key="SwitcherDM" timestamp="1603819199272">
+    <state x="190" y="132" width="1642" height="905" key="CommitChangelistDialog2/0.0.1920.1200/1920.0.1200.1920@0.0.1920.1200" timestamp="1604077259564" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1605646840592">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state width="498" height="446" key="SwitcherDM/0.0.1920.1200/1920.0.1200.1920@0.0.1920.1200" timestamp="1603819199272" />
-    <state x="555" y="317" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1603819111263">
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1200/1920.0.1200.1920@0.0.1920.1200" timestamp="1605646840592" />
+    <state x="555" y="317" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1604077261077">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state x="555" y="317" width="800" height="535" key="Vcs.Push.Dialog.v2/0.0.1920.1200/1920.0.1200.1920@0.0.1920.1200" timestamp="1603819111263" />
-    <state x="171" y="191" width="969" height="782" key="find.popup" timestamp="1603563366315">
+    <state x="555" y="317" width="800" height="535" key="Vcs.Push.Dialog.v2/0.0.1920.1200/1920.0.1200.1920@0.0.1920.1200" timestamp="1604077261077" />
+    <state x="171" y="191" width="969" height="782" key="find.popup" timestamp="1605646851174">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state x="171" y="191" width="969" height="782" key="find.popup/0.0.1920.1200/1920.0.1200.1920@0.0.1920.1200" timestamp="1603563366315" />
+    <state x="171" y="191" width="969" height="782" key="find.popup/0.0.1920.1200/1920.0.1200.1920@0.0.1920.1200" timestamp="1605646851174" />
   </component>
 </project>
