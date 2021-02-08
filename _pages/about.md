@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a (3rd) final Ph.D. student at the [ILCC](http://web.inf.ed.ac.uk/ilcc) in the University of Edinburgh 
+I am a (3rd) final year Ph.D. student at the [ILCC](http://web.inf.ed.ac.uk/ilcc) in the University of Edinburgh 
 and a member of [EdinburghNLP](https://edinburghnlp.inf.ed.ac.uk/) and [Statistical Machine Translation](http://www.statmt.org/ued/) groups,
 under the supervision of [Barry Haddow](http://homepages.inf.ed.ac.uk/bhaddow/) and [Alexandra Birch](http://homepages.inf.ed.ac.uk/abmayne/).
 Preciously, I was a research assistant at the [National Technical University of Athens](https://www.ntua.gr/en/) 
