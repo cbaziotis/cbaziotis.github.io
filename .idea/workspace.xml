@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b7f9dd9d-9fde-4b96-9670-5b9511be3cc8" name="Default Changelist" comment="" />
+    <list default="true" id="b7f9dd9d-9fde-4b96-9670-5b9511be3cc8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/pdf/CV.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/pdf/CV.pdf" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +34,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -60,6 +65,7 @@
       <workItem from="1612729870800" duration="1108000" />
       <workItem from="1612731687216" duration="926000" />
       <workItem from="1612804597081" duration="1281000" />
+      <workItem from="1612889749576" duration="413000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1603561817200</created>
@@ -145,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612804616751</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="update CV">
+      <created>1612889765438</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1612889765438</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,8 +183,8 @@
     <MESSAGE value="about" />
     <MESSAGE value="add slides for emnlp2020 paper" />
     <MESSAGE value="sync" />
-    <MESSAGE value="update CV" />
     <MESSAGE value="update about" />
-    <option name="LAST_COMMIT_MESSAGE" value="update about" />
+    <MESSAGE value="update CV" />
+    <option name="LAST_COMMIT_MESSAGE" value="update CV" />
   </component>
 </project>
