@@ -24,6 +24,5 @@ under the supervision of [Barry Haddow](http://homepages.inf.ed.ac.uk/bhaddow/) 
 Preciously, I was a research assistant at the [National Technical University of Athens](https://www.ntua.gr/en/) 
 under the supervision of [Ion Androutsopoulos](http://www2.aueb.gr/users/ion/) and [Alexandros Potamianos](https://slp.cs.ece.ntua.gr/potam/).
 
-I am interested in natural language generation and multilingual natural language processing, 
-with a focus on approaches that exploit prior knowledge from unlabeled corpora to reduce the need for annotated (parallel) data.
-The topic of my PhD is (low-resource) machine translation with focus on improving performance in typologically distant and under-resourced languages. 
+I am interested in language generation (e.g., summarization or machine translation) and multilingual natural language processing, 
+with a focus on exploiting prior knowledge from unlabeled corpora to reduce the need for annotated (parallel) data.

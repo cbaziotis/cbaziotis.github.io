@@ -20,7 +20,6 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/pdf" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -64,7 +63,7 @@
       <workItem from="1612731687216" duration="926000" />
       <workItem from="1612804597081" duration="1281000" />
       <workItem from="1612889749576" duration="445000" />
-      <workItem from="1613071616357" duration="733000" />
+      <workItem from="1613071616357" duration="1400000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1603561817200</created>
@@ -171,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613071657588</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="update config">
+      <created>1613074735864</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1613074735864</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
