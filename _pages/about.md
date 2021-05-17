@@ -21,7 +21,7 @@ social: false  # includes social icons at the bottom of the page
 I am a (3rd) final year Ph.D. student at the [ILCC](http://web.inf.ed.ac.uk/ilcc) in the University of Edinburgh 
 and a member of [EdinburghNLP](https://edinburghnlp.inf.ed.ac.uk/) and [Statistical Machine Translation](http://www.statmt.org/ued/) groups,
 under the supervision of [Barry Haddow](http://homepages.inf.ed.ac.uk/bhaddow/) and [Alexandra Birch](http://homepages.inf.ed.ac.uk/abmayne/).
-Preciously, I was a research assistant at the [National Technical University of Athens](https://www.ntua.gr/en/) 
+Previously, I was a research assistant at the [National Technical University of Athens](https://www.ntua.gr/en/) 
 under the supervision of [Ion Androutsopoulos](http://www2.aueb.gr/users/ion/) and [Alexandros Potamianos](https://slp.cs.ece.ntua.gr/potam/).
 
 I am interested in language generation (e.g., summarization or machine translation) and multilingual natural language processing, 
