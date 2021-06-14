@@ -3,6 +3,26 @@
 
 
 %--------------------------------------------------------------------------
+% 2021
+%--------------------------------------------------------------------------
+@proceedings{baziotis-2021-pretraining-obectives,
+    abbr = {Findings of ACL},
+    title = "Exploration of Unsupervised Pretraining Objectives for Machine Translation",
+    editor = "Baziotis, Christos  and
+      Titov, Ivan  and
+      Birch, Alexandra  and
+      Haddow, Barry",
+    booktitle = "Findings of the Association for Computational Linguistics: ACL 2021",
+    month = aug,
+    year = "2021",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    pdf = "https://arxiv.org/abs/2106.05634",
+%    slides = "slides_emnlp2020_lm_prior.pdf",
+    code = "https://github.com/cbaziotis/nmt-pretraining-objectives",
+    image = "/assets/img/nmt_pretraining_acl2021.png",
+}
+%--------------------------------------------------------------------------
 % 2020
 %--------------------------------------------------------------------------
 @inproceedings{baziotis-etal-2020-prior,
@@ -65,7 +85,6 @@ image = "https://user-images.githubusercontent.com/28900064/74201901-e0c90d80-4c
 doi = "10.18653/v1/P19-1385",
 pages = "3944--3951",
 abstract = "In this paper, we present a novel approach for incorporating external knowledge in Recurrent Neural Networks (RNNs). We propose the integration of lexicon features into the self-attention mechanism of RNN-based architectures. This form of conditioning on the attention distribution, enforces the contribution of the most salient words for the task at hand. We introduce three methods, namely attentional concatenation, feature-based gating and affine transformation. Experiments on six benchmark datasets show the effectiveness of our methods. Attentional feature-based gating yields consistent performance improvement across tasks. Our approach is implemented as a simple add-on module for RNN-based models with minimal computational overhead and can be adapted to any deep neural architecture.",
-selected ={true}
 }
 @inproceedings{chronopoulou-etal-2019-embarrassingly,
 abbr = {NAACL},
@@ -86,7 +105,6 @@ image = "https://user-images.githubusercontent.com/30402550/58558299-19d26680-82
 doi = "10.18653/v1/N19-1213",
 pages = "2089--2095",
 abstract = "A growing number of state-of-the-art transfer learning methods employ language models pretrained on large generic corpora. In this paper we present a conceptually simple and effective transfer learning approach that addresses the problem of catastrophic forgetting. Specifically, we combine the task-specific optimization function with an auxiliary language model objective, which is adjusted during the training process. This preserves language regularities captured by language models, while enabling sufficient adaptation for solving the target task. Our method does not require pretraining or finetuning separate components of the network and we train our models end-to-end in a single step. We present results on a variety of challenging affective and text classification tasks, surpassing well established transfer learning methods with greater level of complexity.",
-selected ={true}
 }
 
 %--------------------------------------------------------------------------
@@ -228,7 +246,6 @@ award = "1st in Task4A, 2nd in Task4{B,C,D}",
 doi = "10.18653/v1/S17-2126",
 pages = "747--754",
 abstract = "In this paper we present two deep-learning systems that competed at SemEval-2017 Task 4 {``}Sentiment Analysis in Twitter{''}. We participated in all subtasks for English tweets, involving message-level and topic-based sentiment polarity classification and quantification. We use Long Short-Term Memory (LSTM) networks augmented with two kinds of attention mechanisms, on top of word embeddings pre-trained on a big collection of Twitter messages. Also, we present a text processing tool suitable for social network messages, which performs tokenization, word normalization, segmentation and spell correction. Moreover, our approach uses no hand-crafted features or sentiment lexicons. We ranked 1st (tie) in Subtask A, and achieved very competitive results in the rest of the Subtasks. Both the word embeddings and our text processing tool are available to the research community.",
-selected ={true},
 }
 
 @inproceedings{baziotis-etal-2017-datastories,

@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7f9dd9d-9fde-4b96-9670-5b9511be3cc8" name="Default Changelist" comment="typo">
-      <change afterPath="$PROJECT_DIR$/_news/announcement_2.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_news/announcement_3.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_bibliography/papers.bib" beforeDir="false" afterPath="$PROJECT_DIR$/_bibliography/papers.bib" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +69,7 @@
       <workItem from="1613071616357" duration="1400000" />
       <workItem from="1616246753737" duration="241000" />
       <workItem from="1621275136922" duration="3130000" />
+      <workItem from="1623668341249" duration="505000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1603561817200</created>
