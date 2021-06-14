@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b7f9dd9d-9fde-4b96-9670-5b9511be3cc8" name="Default Changelist" comment="typo">
+    <list default="true" id="b7f9dd9d-9fde-4b96-9670-5b9511be3cc8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/img/nmt_pretraining_acl2021.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_bibliography/papers.bib" beforeDir="false" afterPath="$PROJECT_DIR$/_bibliography/papers.bib" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +71,7 @@
       <workItem from="1613071616357" duration="1400000" />
       <workItem from="1616246753737" duration="241000" />
       <workItem from="1621275136922" duration="3130000" />
-      <workItem from="1623668341249" duration="505000" />
+      <workItem from="1623668341249" duration="813000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1603561817200</created>
@@ -197,7 +199,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621275161181</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="add paper">
+      <created>1623669173649</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1623669173649</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -226,6 +235,7 @@
     <MESSAGE value="update config" />
     <MESSAGE value="update about" />
     <MESSAGE value="typo" />
-    <option name="LAST_COMMIT_MESSAGE" value="typo" />
+    <MESSAGE value="add paper" />
+    <option name="LAST_COMMIT_MESSAGE" value="add paper" />
   </component>
 </project>
