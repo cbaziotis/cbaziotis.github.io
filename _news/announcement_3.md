@@ -5,4 +5,4 @@ inline: true
 ---
 
 I am going to spend my summer as an Applied Scientist intern at Amazon AI in Palo Alto, 
-working with [Prashant Mathur](http://mtresearcher.github.io/).
+working with [Prashant Mathur](http://mtresearcher.github.io/) and [Eva Hasler](https://scholar.google.com/citations?user=ez5PZHAAAAAJ).

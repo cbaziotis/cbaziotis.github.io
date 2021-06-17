@@ -8,7 +8,7 @@
 @inproceedings{baziotis-2021-pretraining-obectives,
     abbr = {Findings of ACL},
     title = "Exploration of Unsupervised Pretraining Objectives for Machine Translation",
-    editor = "Baziotis, Christos and Titov, Ivan and Birch, Alexandra and Haddow, Barry",
+    author = "Baziotis, Christos and Titov, Ivan and Birch, Alexandra and Haddow, Barry",
     booktitle = "Findings of the Association for Computational Linguistics",
     month = aug,
     year = "2021",
@@ -18,6 +18,7 @@
     code = "https://github.com/cbaziotis/nmt-pretraining-objectives",
     image = "/assets/img/nmt_pretraining_acl2021.png",
     abstract = "Unsupervised cross-lingual pretraining has achieved strong results in neural machine translation (NMT), by drastically reducing the need for large parallel data. Most approaches adapt masked-language modeling (MLM) to sequence-to-sequence architectures, by masking parts of the input and reconstructing them in the decoder. In this work, we systematically compare masking with alternative objectives that produce inputs resembling real (full) sentences, by reordering and replacing words based on their context. We pretrain models with different methods on English↔German, English↔Nepali and English↔Sinhala monolingual data, and evaluate them on NMT. In (semi-) supervised NMT, varying the pretraining objective leads to surprisingly small differences in the finetuned performance, whereas unsupervised NMT is much more sensitive to it. To understand these results, we thoroughly study the pretrained models using a series of probes and verify that they encode and use information in different ways. We conclude that finetuning on parallel data is mostly sensitive to few properties that are shared by most models, such as a strong decoder, in contrast to unsupervised NMT that also requires models with strong cross-lingual abilities.",
+    blog ="https://twitter.com/cbaziotis/status/1404388431590010888",
     selected ={true},
 }
 %--------------------------------------------------------------------------
