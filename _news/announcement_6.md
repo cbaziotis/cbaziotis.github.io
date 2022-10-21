@@ -5,5 +5,5 @@ inline: true
 ---
 
 The preprint from my Amazon internship work
-"Automatic Evaluation and Analysis of Idioms in NMT" 
-is on Arxiv (http://arxiv.org/abs/2210.04545)!
+"Automatic Evaluation and Analysis of Idioms in Neural Machine Translation" 
+is on Arxiv ([preprint](http://arxiv.org/abs/2210.04545))!
