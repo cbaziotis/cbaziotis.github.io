@@ -26,3 +26,4 @@ under the supervision of [Ion Androutsopoulos](http://www2.aueb.gr/users/ion/) a
 
 I am interested in language generation (e.g., summarization or machine translation) and multilingual natural language processing, 
 with a focus on exploiting prior knowledge from unlabeled corpora to reduce the need for annotated (parallel) data.
+
