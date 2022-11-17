@@ -34,7 +34,7 @@ and multilingual natural language processing tasks.
 
 The topic of my Ph.D. is low-resource machine translation. Besides a few high-resource languages, most languages have
 limited or no parallel data and modern deep learning models are notoriously data-hungry.
-In my research, I explore unsupervised and semi-supervised methods to reduce the need for annotated (parallel) data.
+In my work, I explore unsupervised and semi-supervised methods to reduce the need for annotated (parallel) data.
 
 Before starting my Ph.D., I was a research assistant at
 the [National Technical University of Athens](https://www.ntua.gr/en/)
