@@ -7,7 +7,7 @@ description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
 align: left
-image: prof_pic.jpg
+image: profile.jpg
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -28,5 +28,12 @@ by exploiting prior knowledge from unlabeled data.
 I am particularly interested in text generation tasks, such as summarization or machine translation,
 and multilingual natural language processing.
 
+The topic of my Ph.D. is low-resource machine translation. Besides a few high-resource languages, most languages have
+limited or no parallel data and modern deep learning models are notoriously data-hungry.
+In my research, I explore unsupervised and semi-supervised methods to reduce the need for annotated (parallel) data.
 
+Before starting my Ph.D., I was a research assistant at
+the [National Technical University of Athens](https://www.ntua.gr/en/)
+under the supervision of [Ion Androutsopoulos](http://www2.aueb.gr/users/ion/)
+and [Alexandros Potamianos](https://slp.cs.ece.ntua.gr/potam/).
 
