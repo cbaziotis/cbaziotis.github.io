@@ -27,10 +27,10 @@ and [Alexandra Birch](http://homepages.inf.ed.ac.uk/abmayne/).
 I previously interned as a Research Scientist at [Meta AI (FAIR)](https://ai.facebook.com/) in Menlo Park
 and as an Applied Scientist at [Amazon AI](https://www.amazon.science/) in Palo Alto.
 
-I am interested in enabling machine learning models to learn with little supervision,
+In my research, I aim to enable machine learning models to learn with little supervision,
 by exploiting prior knowledge from unlabeled data.
-I am particularly interested in text generation tasks, such as summarization or machine translation,
-and multilingual natural language processing.
+I am particularly interested in text generation, such as summarization or machine translation,
+and multilingual natural language processing tasks.
 
 The topic of my Ph.D. is low-resource machine translation. Besides a few high-resource languages, most languages have
 limited or no parallel data and modern deep learning models are notoriously data-hungry.
