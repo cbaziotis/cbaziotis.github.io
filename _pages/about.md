@@ -7,14 +7,22 @@ description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
 align: left
-image: profile.jpg
+image: prof_pic.jpg
+
+# address: >
+
+# <p>555 your office number</p>
+
+# <p>123 your address street</p>
+
+# <p>Your City, State 12345</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a (3rd) final year Ph.D. student at the [ILCC](http://web.inf.ed.ac.uk/ilcc) in the University of Edinburgh
+I am a (3rd) final year Ph.D. candidate at the [ILCC](http://web.inf.ed.ac.uk/ilcc) in the University of Edinburgh
 and a member of [EdinburghNLP](https://edinburghnlp.inf.ed.ac.uk/)
 and [Statistical Machine Translation](http://www.statmt.org/ued/) groups,
 under the supervision of [Barry Haddow](http://homepages.inf.ed.ac.uk/bhaddow/)
