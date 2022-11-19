@@ -24,8 +24,8 @@ and [Statistical Machine Translation](http://www.statmt.org/ued/) groups,
 under the supervision of [Barry Haddow](http://homepages.inf.ed.ac.uk/bhaddow/)
 and [Alexandra Birch](http://homepages.inf.ed.ac.uk/abmayne/).
 
-During my Ph.D., I have done internships as a Research Scientist at [Meta AI (FAIR)](https://ai.facebook.com/) 
-in Menlo Park and as an Applied Scientist at [Amazon AI](https://www.amazon.science/) in Palo Alto.
+During my Ph.D., I have done internships as Research Scientist at [Meta AI (FAIR)](https://ai.facebook.com/) 
+in Menlo Park and as Applied Scientist at [Amazon AI](https://www.amazon.science/) in Palo Alto.
 
 In my research, I aim to enable machine learning models to learn with limited supervision,
 by exploiting prior knowledge from unlabeled data.
