@@ -6,20 +6,16 @@ permalink: /
 description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
-align: left
-image: prof_pic.jpg
+  align: left
+  image: prof_pic.jpg
+#  address: >
+#    <p>555 your office number</p>
+#    <p>123 your address street</p>
+#    <p>Your City, State 12345</p>
 
-# address: >
-
-# <p>555 your office number</p>
-
-# <p>123 your address street</p>
-
-# <p>Your City, State 12345</p>
-
-news: true # includes a list of news items
+news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
 I am a (3rd) final year Ph.D. candidate at the [ILCC](http://web.inf.ed.ac.uk/ilcc) in the University of Edinburgh
@@ -35,10 +31,10 @@ in Menlo Park and as Applied Scientist at [Amazon AI](https://www.amazon.science
 
 In my research, I aim to enable machine learning models to learn with limited supervision,
 by exploiting prior knowledge from unlabeled data.
-I am particularly interested in text generation, such as summarization or machine translation,
-and multilingual natural language processing tasks.
+I am particularly interested in _text generation_, such as summarization or machine translation,
+and _multilingual_ natural language processing tasks.
 
-The topic of my Ph.D. is low-resource _machine translation_. Besides a few high-resource languages, most languages have
+The topic of my Ph.D. is low-resource machine translation. Besides a few high-resource languages, most languages have
 limited or no parallel data and modern deep learning models are notoriously data-hungry.
 In my work, I explore unsupervised and semi-supervised methods to reduce the need for annotated (parallel) data.
 I am currently working on (non-parametric) _retrieval_ methods for multilingual machine translation.
