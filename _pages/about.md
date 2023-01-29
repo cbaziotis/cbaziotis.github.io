@@ -20,7 +20,6 @@ social: false  # includes social icons at the bottom of the page
 
 I am a (3rd) final year Ph.D. candidate at the [ILCC](http://web.inf.ed.ac.uk/ilcc) in the University of Edinburgh
 and a member of [EdinburghNLP](https://edinburghnlp.inf.ed.ac.uk/)
-and [Statistical Machine Translation](http://www.statmt.org/ued/) groups,
 under the supervision of [Barry Haddow](http://homepages.inf.ed.ac.uk/bhaddow/)
 and [Alexandra Birch](http://homepages.inf.ed.ac.uk/abmayne/).
 
@@ -29,9 +28,8 @@ in Menlo Park and as Applied Scientist at [Amazon AI](https://www.amazon.science
 
 **I am in the job market for industry research positions.**
 
-In my research, I aim to enable machine learning models to learn with limited supervision,
-by exploiting prior knowledge from unlabeled data.
-I am particularly interested in _text generation_, such as summarization or machine translation,
+In my research, I aim to enable machine learning models to learn with limited supervision by exploiting prior knowledge
+from unlabeled data. I am particularly interested in _text generation_, such as summarization or machine translation,
 and _multilingual_ natural language processing tasks.
 
 The topic of my Ph.D. is low-resource machine translation. Besides a few high-resource languages, most languages have
