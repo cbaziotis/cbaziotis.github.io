@@ -38,7 +38,7 @@ Specifically, I have worked on semi-supervised and (multilingual) machine transl
 improving parameter efficiency and scaling (hyper-network) architectures to larger sizes. 
 My ongoing and final PhD project explores (non-parametric) retrieval.
 
-Before starting my Ph.D., I was a research assistant at
+Before starting my Ph.D., I was a research assistant working on unsupervised summarization at
 the [National Technical University of Athens](https://www.ntua.gr/en/)
 under the supervision of [Ion Androutsopoulos](http://www2.aueb.gr/users/ion/)
 and [Alexandros Potamianos](https://slp.cs.ece.ntua.gr/potam/).
