@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a (3rd) final year Ph.D. candidate at the [ILCC](http://web.inf.ed.ac.uk/ilcc) in the University of Edinburgh
+I am a final year Ph.D. candidate at the [ILCC](http://web.inf.ed.ac.uk/ilcc) in the University of Edinburgh
 and a member of [EdinburghNLP](https://edinburghnlp.inf.ed.ac.uk/)
 under the supervision of [Barry Haddow](http://homepages.inf.ed.ac.uk/bhaddow/)
 and [Alexandra Birch](http://homepages.inf.ed.ac.uk/abmayne/).
@@ -26,16 +26,17 @@ and [Alexandra Birch](http://homepages.inf.ed.ac.uk/abmayne/).
 During my Ph.D., I have done internships as Research Scientist at [Meta AI (FAIR)](https://ai.facebook.com/)
 in Menlo Park and as Applied Scientist at [Amazon AI](https://www.amazon.science/) in Palo Alto.
 
-**I am in the job market for industry research positions.**
+**I am in the job market for industry Research Scientist positions.**
 
-In my research, I aim to enable machine learning models to learn with limited supervision by exploiting prior knowledge
-from unlabeled data. I am particularly interested in _text generation_, such as summarization or machine translation,
-and _multilingual_ natural language processing tasks.
+My research focuses on the intersection of Machine Learning and Natural Language Processing (NLP).
+I am interested text generation, such as summarization or machine translation, multilinguality, 
+and enabling models to learn with limited supervision.
 
-The topic of my Ph.D. is low-resource machine translation. Besides a few high-resource languages, most languages have
-limited or no parallel data and modern deep learning models are notoriously data-hungry.
-In my work, I explore unsupervised and semi-supervised methods to reduce the need for annotated (parallel) data.
-I am currently working on (non-parametric) _retrieval_ methods for multilingual machine translation.
+The topic of my PhD is low-resource machine translation. I have developed methods and studied how to best exploit prior
+knowledge from unlabeled corpora to improve performance in languages with limited or no parallel data. 
+Specifically, I have worked on semi-supervised and (multilingual) machine translation, 
+improving parameter efficiency and scaling (hyper-network) architectures to larger sizes. 
+My ongoing and final PhD project explores (non-parametric) retrieval.
 
 Before starting my Ph.D., I was a research assistant at
 the [National Technical University of Athens](https://www.ntua.gr/en/)
