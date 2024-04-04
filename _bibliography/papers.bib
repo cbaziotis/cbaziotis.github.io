@@ -3,24 +3,27 @@
 
 
 %--------------------------------------------------------------------------
-% 2023
+% 2024
 %--------------------------------------------------------------------------
 
-@inproceedings{baziotis-2023-mmt-ssl,
-    abbr = {arXiv},
+@inproceedings{baziotis-2024-mmt-ssl,
+    abbr = {NAACL},
     title = "When Does Monolingual Data Help Multilingual Translation: The Role of Domain and Model Scale",
     author = "Baziotis, Christos and Zhang, Biao and Birch, Alexandra and Haddow, Barry",
-    month = May,
-    year = "2023",
-    eprint={2305.14124},
-    archivePrefix={arXiv},
-    primaryClass={cs.CL},
+    month = June,
+    year = "2024",
+    address = "Mexico City, Mexico",
+    publisher = "Association for Computational Linguistics",
     pdf = "https://arxiv.org/abs/2305.14124",
     image = "/assets/img/arxiv-2023-mmt-ssl.png",
     abstract ="Multilingual machine translation (MMT), trained on a mixture of parallel and monolingual data, is key for improving translation in low-resource language pairs. However, the literature offers conflicting results on the performance of different methods. To resolve this, we examine how denoising autoencoding (DAE) and backtranslation (BT) impact MMT under different data conditions and model scales. Unlike prior studies, we use a realistic dataset of 100 directions and consider many domain combinations of monolingual and test data. We find that monolingual data generally helps MMT, but models are surprisingly brittle to domain mismatches, especially at smaller model scales. BT is beneficial when the parallel, monolingual, and test data sources are similar but can be detrimental otherwise, while DAE is less effective than previously reported. Next, we analyze the impact of scale (from 90M to 1.6B parameters) and find it is important for both methods, particularly DAE. As scale increases, DAE transitions from underperforming the parallel-only baseline at 90M to converging with BT performance at 1.6B, and even surpassing it in low-resource. These results offer new insights into how to best use monolingual data in MMT.",
     blog ="https://twitter.com/cbaziotis/status/1661296521424564226",
     selected ={true},
 }
+
+%--------------------------------------------------------------------------
+% 2023
+%--------------------------------------------------------------------------
 
 @inproceedings{baziotis-2023-litter,
     abbr = {EACL},

@@ -18,27 +18,20 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a final year Ph.D. candidate at the [ILCC](http://web.inf.ed.ac.uk/ilcc) in the University of Edinburgh
-and a member of [EdinburghNLP](https://edinburghnlp.inf.ed.ac.uk/)
-under the supervision of [Barry Haddow](http://homepages.inf.ed.ac.uk/bhaddow/)
-and [Alexandra Birch](http://homepages.inf.ed.ac.uk/abmayne/).
+I am a machine learning researcher and member of the founding team of [Samaya AI](https://samaya.ai/). 
+We are creating an knowledge discovery platform that uses large language models to extract insights from large volumes of data
+and assist domain experts in decision-making.
 
-During my Ph.D., I have done internships as Research Scientist at [Meta AI (FAIR)](https://ai.facebook.com/)
+Before joining Samaya, I did my PhD at the [ILCC](http://web.inf.ed.ac.uk/ilcc) in the University of Edinburgh under the supervision of [Barry Haddow](http://homepages.inf.ed.ac.uk/bhaddow/)
+and [Alexandra Birch](http://homepages.inf.ed.ac.uk/abmayne/). During my Ph.D., I did internships as Research Scientist at [Meta AI (FAIR)](https://ai.facebook.com/)
 in Menlo Park and as Applied Scientist at [Amazon AI](https://www.amazon.science/) in Palo Alto.
-
-**I am in the job market for industry Research Scientist positions.**
-
-My research focuses on the intersection of Machine Learning and Natural Language Processing (NLP).
-I am interested text generation, such as summarization or machine translation, multilinguality, 
-and enabling models to learn with limited supervision.
-
-The topic of my PhD is low-resource machine translation. I have developed methods and studied how to best exploit prior
-knowledge from unlabeled corpora to improve performance in languages with limited or no parallel data. 
-Specifically, I have worked on semi-supervised and (multilingual) machine translation, 
-improving parameter efficiency and scaling (hyper-network) architectures to larger sizes. 
-My ongoing and final PhD project explores (non-parametric) retrieval.
 
 Before starting my Ph.D., I was a research assistant working on unsupervised summarization at
 the [National Technical University of Athens](https://www.ntua.gr/en/)
 under the supervision of [Ion Androutsopoulos](http://www2.aueb.gr/users/ion/)
 and [Alexandros Potamianos](https://slp.cs.ece.ntua.gr/potam/).
+
+#### Research Interests
+My research focuses on the intersection of machine learning and natural language processing (NLP). In particular,
+I am interested in text generation (e.g., summarization or machine translation), information retrieval,
+and enabling models to learn with limited supervision.
