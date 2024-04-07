@@ -316,10 +316,11 @@ footer.sticky-bottom {
   h2.year {
     color: $grey-color;
     border-top: 1px solid $grey-color-light;
-    padding-top: 1rem;
-    margin-top: 2rem;
-    margin-bottom: -2rem;
-    text-align: right;
+    //padding-top: 1rem;
+    //margin-top: 2rem;
+    //margin-bottom: -2rem;
+    //text-align: right;
+    text-align: center;
   }
   ol.bibliography {
     list-style: none;
@@ -327,8 +328,11 @@ footer.sticky-bottom {
     margin-top: 0;
 
     li {
-      margin-bottom: 1rem;
+      //margin-bottom: 1rem;
+      margin-bottom: 4rem;
       .abbr {
+        text-align: center; // Center child inline-block elements horizontally
+
         abbr {
           //height: 2rem;
           margin-bottom: 0.4rem;
