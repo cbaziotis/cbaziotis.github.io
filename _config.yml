@@ -8,7 +8,7 @@ middle_name:
 last_name: Baziotis
 email: christos.baziotis@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Hi! I am Christos, PhD student at the School of Informatics, University of Edinburgh.
+  Hi! I am Christos, machine learning researcher.
 footer_text: >
 
 url:  # the base hostname & protocol for your site
