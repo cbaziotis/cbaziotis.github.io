@@ -18,18 +18,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a machine learning researcher and member of the founding team of [Samaya AI](https://samaya.ai/).
-We are developing an AI platform that provides research tools and LLM Agents for finance, serving leading institutions like Morgan Stanley and a number of Wall Street hedge funds.
-My research focuses on retrieval (QA, RAG), planning with reinforcement learning, and evaluation of LLM outputs. 
+I’m a machine learning researcher based in London. I currently work at [Cohere](https://cohere.com/), where I do research on integrating memory into Agents and helping them learn from experience.
 
-Before joining Samaya, I did my PhD at the [ILCC](http://web.inf.ed.ac.uk/ilcc) in the University of Edinburgh under the supervision of [Barry Haddow](http://homepages.inf.ed.ac.uk/bhaddow/)
-and [Alexandra Birch](http://homepages.inf.ed.ac.uk/abmayne/). 
-My research focused on multilingual translation, large-scale pretraining, and improving performance in low-resource settings by extracting signal from unlabeled and synthetic data.
-During my Ph.D., I did internships as Research Scientist at [Meta AI (FAIR)](https://ai.facebook.com/)
-in Menlo Park and as Applied Scientist at [Amazon AI](https://www.amazon.science/) in Palo Alto.
+Previously, I was a founding team member at [Samaya AI](https://samaya.ai/), developing an AI platform that provides research tools and LLM Agents for finance. There I worked on retrieval and orchestration for agent-based RAG. My work included query understanding, RL-based approaches to search orchestration, and [evaluation for long-form question answering](https://samaya.ai/blog/criteria-eval).
 
+I completed my PhD at the [ILCC](http://web.inf.ed.ac.uk/ilcc) at the University of Edinburgh, supervised by [Barry Haddow](http://homepages.inf.ed.ac.uk/bhaddow/) and [Alexandra Birch](http://homepages.inf.ed.ac.uk/abmayne/). My PhD was on multilingual machine translation and pretraining, with an emphasis on low-resource scenarios and learning from unlabeled and synthetic data. During my PhD, I interned at [Meta AI (FAIR)](https://ai.facebook.com/) and [Amazon Science](https://www.amazon.science/).
 
-Before starting my PhD, I was a research assistant working on unsupervised text generation (summarization and translation) at
-the [National Technical University of Athens](https://www.ntua.gr/en/)
-with [Ion Androutsopoulos](http://www2.aueb.gr/users/ion/)
-and [Alexandros Potamianos](https://slp.cs.ece.ntua.gr/potam/).
+Earlier, I was a research assistant at the [National Technical University of Athens](https://www.ntua.gr/en/), where I worked on text generation (summarization and translation) with [Ion Androutsopoulos](http://www2.aueb.gr/users/ion/) and [Alexandros Potamianos](https://slp.cs.ece.ntua.gr/potam/).
