@@ -36,8 +36,8 @@
 @media(max-width:700px){
   .mast{gap:6px}
   .brand small{display:none}
-  .view-nav{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:0}
-  .view-nav button{min-width:0;padding:8px 4px;font-size:12.5px;line-height:1.3;min-height:44px}
+  .view-nav{display:grid;grid-template-columns:minmax(0,.9fr) minmax(0,1fr) minmax(0,1.3fr) minmax(0,.9fr);gap:0}
+  .view-nav button{min-width:0;padding:8px 4px;font-size:12.5px;line-height:1.3;min-height:44px;overflow-wrap:normal}
   #practice-view h1{font-size:26px}
   #practice-view .feedback{margin-top:22px;padding-top:18px}
   #practice-view #hint{display:none}
@@ -361,7 +361,7 @@
     QUESTIONS.forEach(q => counts[Scheduler.questionStatus(state.questions[q.id])]++);
     $('practice-mode-description').textContent = settings.unseenOnly
       ? `${counts.unseen} unseen ${counts.unseen === 1 ? 'question' : 'questions'} remaining. ${targetedPractice ? 'This question was selected manually; Next returns to unseen-only practice.' : 'Each appears once, whether you answer correctly or incorrectly.'}`
-      : `Adaptive practice: likely knowledge gaps and recent mistakes get priority. ${counts.unseen} unseen ${counts.unseen === 1 ? 'question' : 'questions'} remaining.`;
+      : `Adaptive practice: likely gaps and recent mistakes get priority. ${counts.unseen} unseen.`;
     $('next').textContent = settings.unseenOnly && !counts.unseen ? 'Finish coverage →' : 'Next question →';
     $('status-counts').replaceChildren();
     for (const [name, count] of Object.entries(counts)) {
